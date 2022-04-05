@@ -1,0 +1,3 @@
+VOC_CLASSES = (
+  "m"
+)
